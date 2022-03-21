@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@100;200 & display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    background-color:#E7DFD8;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    padding: 50px;
+}
+.navbar{
+    display: flex;
+    gap: 500px;
+}
